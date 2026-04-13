@@ -23,12 +23,6 @@ body {
     justify-content: space-between;
 }
 
-/* .f {
-    border-radius: 50%;
-    border: 2px solid #0b5d2a;
-    margin-left:  4%;
-} */
-
 .intro_limn .frame_inside {
     width: 80%;
     border-radius: 50%;
@@ -142,6 +136,7 @@ h4 {
     font-weight: 500;
     font-size: 20px;
     cursor: pointer;
+    text-transform: uppercase;
 }
 
 .name:hover {
